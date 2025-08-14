@@ -25,7 +25,7 @@ author:
   avatar           : "cyd.jpg"
   name             : "Chen Yidong"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  # bio              : #"Short biography for the left-hand sidebar"
   location         : "Xiamen City"
   employer         : "Xiamen University"
   uri              : "https://asc.xmu.edu.cn/t/chenyidong"
