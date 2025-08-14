@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 
+About Me
+------
+My name is Chen Yidong, from [Minqing County](https://baike.baidu.com/item/%E9%97%BD%E6%B8%85%E5%8E%BF/3449787), Fuzhou, Fujian Province. I am a Ph.D. student enrolled in the 2024 fall semester at Xiamen University, working in the [ASC Lab](https://asc.xmu.edu.cn/) under the supervision of Professor [Wang Cheng](https://asc.xmu.edu.cn/t/wangcheng). During my graduate studies, my advisors were Professor [Wang Zongyue](https://cec.jmu.edu.cn/info/1008/4200.htm) and Professor [Cai Guorong](https://cec.jmu.edu.cn/info/1008/4123.htm). My research focuses on 3D localization and artificial intelligence. I welcome collaborations and discussions with fellow researchers.
+
+
 News
 ------
 - 07/2025, one conference paper is accepted to ACM MM 2025 (CCF-A, Core A*, First Author)
@@ -21,6 +26,5 @@ Chinese Academy of Sciences: CAS
 
 
 
-About Me
-------
+
 
