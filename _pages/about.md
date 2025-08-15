@@ -96,13 +96,30 @@ Journal：International Journal of Applied Earth Observation and Geoinformation<
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/epdet.png" alt="Paper Image" width="420"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/epdet.png" alt="Paper Image" width="430"/>
 </td>
 <td>
 <strong> EPDet: Enhancing point clouds features with effective representation for 3D object detection </strong><br>
 Author：<strong>Yidong Chen</strong> ,  Guorong Cai, Qiming Xia, Zhaoliang Liu, Binghui Zeng, Zongliang Zhang, Jonathan Li, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
 Journal：International Journal of Applied Earth Observation and Geoinformation<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S1569843224001201">
+<a href="https://www.sciencedirect.com/science/article/pii/S1569843224000426">
+<img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+</a>
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/3hhanet.png" alt="Paper Image" width="430"/>
+</td>
+<td>
+<strong> 3-D HANet: A Flexible 3-D Heatmap Auxiliary Network for Object Detection </strong><br>
+Author：Qiming Xia*; <strong>Yidong Chen*</strong>; Guorong Cai<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>; Guikun Chen; Daoshun Xie; Jinhe Su, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
+Journal：IEEE TGRS<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10056279">
 <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
 </a>
 </td>
