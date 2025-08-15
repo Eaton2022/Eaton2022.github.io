@@ -46,13 +46,13 @@ Conference：ACM MM 2025<br>
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/mm.png" alt="Paper Image" width="200"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/lvp.png" alt="Paper Image" width="200"/>
 </td>
 <td>
-<strong>Unleashing the Power of Data Generation in One-Pass Outdoor LiDAR Localization</strong><br>
-Author：<strong>Yidong Chen</strong>, Qi Li, Yuyang Yang, Wen Li, Sheng Ao, Cheng Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/> <br>
-Conference：ACM MM 2025<br>
-<a href="PDF链接地址">
+<strong> LVP: Leverage Virtual Points in Multimodal Early Fusion for 3-D Object Detection</strong><br>
+Author：<strong>Yidong Chen</strong> , Guorong Cai, Ziying Song, Jonathan Li, Zhaoliang Liu, Binghui Zeng, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
+Journal：IEEE TGRS<br>
+<a href="https://uwaterloo.ca/geospatial-intelligence/sites/default/files/uploads/documents/lvp_leverage_virtual_points_in_multimodal_early_fusion_for_3-d_object_detection.pdf">
 <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
 </a>
 </td>
