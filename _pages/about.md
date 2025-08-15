@@ -24,6 +24,12 @@ News
 
 Chinese Academy of Sciences: CAS
 
+Peer Review
+------
+-IEEE Transactions on Intelligent Transportation Systems
+-IEEE Transactions on Circuits and Systems for Video Technology
+
+
 
 
 
