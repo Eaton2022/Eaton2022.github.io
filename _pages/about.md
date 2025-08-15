@@ -30,7 +30,7 @@ Publication
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/mm.png" alt="Paper Image" width="200"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/lvp.png" alt="Paper Image" width="200"/>
 </td>
 <td>
 <strong>Unleashing the Power of Data Generation in One-Pass Outdoor LiDAR Localization</strong><br>
