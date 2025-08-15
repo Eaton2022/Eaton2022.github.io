@@ -63,7 +63,7 @@ Journal：IEEE TGRS<br>
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/zl.png" alt="Paper Image" width="250"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/zl.png" alt="Paper Image" width="200"/>
 </td>
 <td>
 <strong> GeoRGS: Geometric Regularization for Real-Time Novel View Synthesis From Sparse Inputs </strong><br>
