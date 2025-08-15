@@ -59,6 +59,22 @@ Journal：IEEE TGRS<br>
 </tr>
 </table>
 
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/zl.png" alt="Paper Image" width="250"/>
+</td>
+<td>
+<strong> GeoRGS: Geometric Regularization for Real-Time Novel View Synthesis From Sparse Inputs </strong><br>
+Author：Zhaoliang Liu; Jinhe Su; Guorong Cai; <strong>Yidong Chen</strong> ; Binghui Zeng; Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
+Journal：IEEE TCSVT<br>
+<a href="https://ieeexplore.ieee.org/document/10643132">
+<img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+</a>
+</td>
+</tr>
+</table>
 Peer Review
 ------
 - IEEE Transactions on Intelligent Transportation Systems
