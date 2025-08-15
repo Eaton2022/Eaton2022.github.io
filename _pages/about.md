@@ -34,7 +34,7 @@ Publication
 </td>
 <td>
 <strong>Unleashing the Power of Data Generation in One-Pass Outdoor LiDAR Localization</strong><br>
-Author：CYD<br>
+Author：**Yidong Chen**, Qi Li, Yuyang Yang, Wen Li, Sheng Ao, Cheng Wang<br>
 Conference：ACM MM 2025<br>
 <a href="PDF链接地址">
 <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
