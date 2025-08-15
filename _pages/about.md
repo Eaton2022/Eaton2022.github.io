@@ -140,8 +140,6 @@ Journal：IEEE TGRS<br>
 
 
 ## Teaching Assistant 🎓
-
-![TA logo](https://img.shields.io/badge/-Teaching%20Assistant-orange?logo=googleclassroom&logoColor=white)
 ------
 2025 Fall Semester: Machine Learning at Xiamen University  
 
