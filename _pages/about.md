@@ -27,17 +27,21 @@ Chinese Academy of Sciences: CAS
 
 Publication
 ------
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/Eaton2022/Eaton2022.github.io/blob/master/mm.png" alt="Paper Image" width="200" style="margin-right: 20px;"/>
-  <div>
-    <strong>Unleashing the Power of Data Generation in One-Pass Outdoor LiDAR Localization</strong><br>
-    Author：CYD<br>
-    Conference： ACM MM 2025<br>
-    <a href="PDF链接地址">
-      <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
-    </a>
-  </div>
-</div>
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/mm.png" alt="Paper Image" width="200"/>
+</td>
+<td>
+<strong>Unleashing the Power of Data Generation in One-Pass Outdoor LiDAR Localization</strong><br>
+Author：CYD<br>
+Conference：ACM MM 2025<br>
+<a href="PDF链接地址">
+<img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+</a>
+</td>
+</tr>
+</table>
 
 Peer Review
 ------
