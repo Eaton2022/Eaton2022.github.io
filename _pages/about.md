@@ -113,7 +113,7 @@ Journal：International Journal of Applied Earth Observation and Geoinformation<
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/epdet.png" alt="Paper Image" width="300"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/3dhanet.png" alt="Paper Image" width="300"/>
 </td>
 <td>
 <strong> 3-D HANet: A Flexible 3-D Heatmap Auxiliary Network for Object Detection </strong><br>
