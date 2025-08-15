@@ -24,6 +24,30 @@ News
 
 Chinese Academy of Sciences: CAS
 
+
+Publication
+------
+<div style="display: flex; margin-bottom: 25px; border: 1px solid #e1e4e8; border-radius: 8px; overflow: hidden; background: #f6f8fa;">
+    <div style="flex: 1; padding: 15px; display: flex; align-items: center; justify-content: center; background: #ffffff;">
+        <img src="https://example.com/article1.jpg" alt="GitHub高级技巧" style="max-width: 150px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 3; padding: 15px; position: relative;">
+        <h3 style="margin-top: 0; color: #24292e;"><strong>GitHub高级技巧指南</strong></h3>
+        <p style="color: #586069;"><small>发表于 2023年9月 | 分类: <strong>开发工具</strong></small></p>
+        <p>本文详细介绍了GitHub的隐藏功能和高级使用技巧，包括Actions自动化、Pages部署、项目管理等实用内容，帮助开发者更高效地使用GitHub平台。</p>
+        <div style="position: absolute; bottom: 15px; right: 15px;">
+            <a href="https://example.com/article1.pdf" style="text-decoration: none; margin-right: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4d6.svg" width="20" alt="PDF">
+                <strong>PDF</strong>
+            </a>
+            <a href="https://example.com/article1.epub" style="text-decoration: none;">
+                <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4da.svg" width="20" alt="EPUB">
+                <strong>EPUB</strong>
+            </a>
+        </div>
+    </div>
+</div>
+
 Peer Review
 ------
 - IEEE Transactions on Intelligent Transportation Systems
