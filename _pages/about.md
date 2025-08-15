@@ -79,7 +79,7 @@ Journal：IEEE TCSVT<br>
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/cbssd.png" alt="Paper Image" width="350"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/cbssd.png" alt="Paper Image" width="450"/>
 </td>
 <td>
 <strong> Not all points are balanced: Class balanced single-stage outdoor multi-class 3D object detector from point clouds</strong><br>
