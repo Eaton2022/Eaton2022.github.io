@@ -75,6 +75,27 @@ Journal：IEEE TCSVT<br>
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/cbssd.png" alt="Paper Image" width="220"/>
+</td>
+<td>
+<strong> Not all points are balanced: Class balanced single-stage outdoor multi-class 3D object detector from point clouds</strong><br>
+Author：Yidong Chen, Guorong Cai, Qiming Xia, Zhaoliang Liu, Binghui Zeng, Zongliang Zhang, Jinhe Su, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
+Journal：International Journal of Applied Earth Observation and Geoinformation<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1569843224001201">
+<img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+</a>
+</td>
+</tr>
+</table>
+
+
+
+
+
 Peer Review
 ------
 - IEEE Transactions on Intelligent Transportation Systems
