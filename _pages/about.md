@@ -83,7 +83,24 @@ Journal：IEEE TCSVT<br>
 </td>
 <td>
 <strong> Not all points are balanced: Class balanced single-stage outdoor multi-class 3D object detector from point clouds</strong><br>
-Author：Yidong Chen, Guorong Cai, Qiming Xia, Zhaoliang Liu, Binghui Zeng, Zongliang Zhang, Jinhe Su, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
+Author：<strong>Yidong Chen</strong> , Guorong Cai, Qiming Xia, Zhaoliang Liu, Binghui Zeng, Zongliang Zhang, Jinhe Su, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
+Journal：International Journal of Applied Earth Observation and Geoinformation<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1569843224001201">
+<img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+</a>
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/epdet.png" alt="Paper Image" width="250"/>
+</td>
+<td>
+<strong> EPDet: Enhancing point clouds features with effective representation for 3D object detection </strong><br>
+Author：<strong>Yidong Chen</strong> ,  Guorong Cai, Qiming Xia, Zhaoliang Liu, Binghui Zeng, Zongliang Zhang, Jonathan Li, Zongyue Wang <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="16" alt="corresponding author"/>
 Journal：International Journal of Applied Earth Observation and Geoinformation<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1569843224001201">
 <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
