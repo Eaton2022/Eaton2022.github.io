@@ -28,12 +28,11 @@ Chinese Academy of Sciences: CAS
 Publication
 ------
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/Eaton2022/Eaton2022.github.io/blob/master/images/foo-bar-identity-th.jpg" alt="Paper Image" width="200" style="margin-right: 20px;"/>
+  <img src="https://github.com/Eaton2022/Eaton2022.github.io/blob/master/mm.png" alt="Paper Image" width="200" style="margin-right: 20px;"/>
   <div>
-    <strong>论文标题</strong><br>
-    作者：XXX<br>
-    会议：ICCV 2025<br>
-    摘要：这里放一句话介绍论文内容。<br><br>
+    <strong>Unleashing the Power of Data Generation in One-Pass Outdoor LiDAR Localization</strong><br>
+    Author：CYD<br>
+    Conference： ACM MM 2025<br>
     <a href="PDF链接地址">
       <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
     </a>
