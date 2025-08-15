@@ -29,6 +29,9 @@ Peer Review
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Circuits and Systems for Video Technology
 
+Teaching Assistant
+------
+2025 Fall Semester: Machine Learning at Xiamen University  
 
 
 
