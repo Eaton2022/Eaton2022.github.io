@@ -28,7 +28,7 @@ Chinese Academy of Sciences: CAS
 Publication
 ------
 <div style="display: flex; align-items: center;">
-  <img src="文章图片链接" alt="Paper Image" width="200" style="margin-right: 20px;"/>
+  <img src="https://github.com/Eaton2022/Eaton2022.github.io/blob/master/images/foo-bar-identity-th.jpg" alt="Paper Image" width="200" style="margin-right: 20px;"/>
   <div>
     <strong>论文标题</strong><br>
     作者：XXX<br>
