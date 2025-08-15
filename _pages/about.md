@@ -38,6 +38,8 @@ Author：<strong>Yidong Chen</strong>, Qi Li, Yuyang Yang, Wen Li, Sheng Ao, Che
 Conference：ACM MM 2025<br>
 <a href="PDF链接地址">
 <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+<a href="https://github.com/Eaton2022/PELoc">
+<img src="https://img.shields.io/badge/Code-GitHub-black?logo=github">
 </a>
 </td>
 </tr>
@@ -113,7 +115,7 @@ Journal：International Journal of Applied Earth Observation and Geoinformation<
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/3dhanet2.png" alt="Paper Image" width="240"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/3dhanet2.png" alt="Paper Image" width="250"/>
 </td>
 <td>
 <strong> 3-D HANet: A Flexible 3-D Heatmap Auxiliary Network for Object Detection </strong><br>
@@ -121,6 +123,9 @@ Author：Qiming Xia*; <strong>Yidong Chen*</strong>; Guorong Cai<img src="https:
 Journal：IEEE TGRS<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/10056279">
 <img src="https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader">
+<a href="https://github.com/xmuqimingxia/3D-HANet">
+<img src="https://img.shields.io/badge/Code-GitHub-black?logo=github">
+</a>
 </a>
 </td>
 </tr>
