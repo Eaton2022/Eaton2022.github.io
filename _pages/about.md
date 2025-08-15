@@ -96,7 +96,7 @@ Journal：International Journal of Applied Earth Observation and Geoinformation<
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/epdet.png" alt="Paper Image" width="400"/>
+<img src="https://raw.githubusercontent.com/Eaton2022/Eaton2022.github.io/master/epdet.png" alt="Paper Image" width="420"/>
 </td>
 <td>
 <strong> EPDet: Enhancing point clouds features with effective representation for 3D object detection </strong><br>
